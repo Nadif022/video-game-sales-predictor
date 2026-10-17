@@ -1,5 +1,6 @@
 streamlit
-scikit-learn
-pandas
 joblib
-xgboost  # (Sesuaikan dengan library model yang Anda gunakan)
+pandas
+scikit-learn
+xgboost
+numpy
