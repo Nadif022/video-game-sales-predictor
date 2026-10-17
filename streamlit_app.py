@@ -12,7 +12,7 @@ st.write(
 # 2. Muat Model (.joblib)
 @st.cache_resource
 def load_model():
-  return joblib.load("model.joblib")
+  return joblib.load("gbr_model.joblib")
 
 
 model = load_model()
