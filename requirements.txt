@@ -2,5 +2,4 @@ streamlit
 joblib
 pandas
 scikit-learn
-xgboost
 numpy
